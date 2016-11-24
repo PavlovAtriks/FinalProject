@@ -58,6 +58,7 @@ Your Web application should use the following technologies, frameworks and devel
 * Apply **error handling** and **data validation** to avoid crashes when invalid data is entered (both client-side and server-side)
 * Use GitHub and take advantage of the **branches** for writing your features. At least 3 branches. (Suggested branches: Master, Architecture, Private Area, Administration Area, Unit tests)
 * **Documentation** of the project and project architecture (as `.md` file, including screenshots)
+* 0 warnings in StyleCop with documentation features turned off
 
 ### Deliverables
 
